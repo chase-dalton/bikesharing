@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-The customer is trying to determine if it's worth opening a bike-sharing program in Des Moines. While Des Moines isn't New York, an analysis of NYC bike-sharing data can help identify trends that can be useful when debating investment into a new location.
+The customer is trying to determine if it's worth opening a bike-sharing program in Des Moines. While Des Moines isn't New York, an analysis of NYC bike-sharing data can help identify trends that can be useful when debating investment into a new location. The results can be found [here](https://public.tableau.com/views/NYCCitibikeChallenge_16318312213130/NYCCitiBikeChallenge?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Results
 With the help of Tableau, we were able to identify that:
@@ -28,3 +28,4 @@ With the help of Tableau, we were able to identify that:
 - The majority of subscribers are male. 
 
 ## Summary
+Analyzing the data in Tableau has revealed some interesting information. The main takeaway from the data would be that the vast majority of rides in New York are done by men during morning and evening rush hours. We can infer that this is likely due to the bikes being used as an alternate to public/private transportation to and from work. It would be beneficial to have other analyses to determine if the NYC bike-sharing model could be viable in Des Moines, such as comparing different months to see if August's trends are year-round trends, or to compare the bike data to weather data to see how weather affects trends.
